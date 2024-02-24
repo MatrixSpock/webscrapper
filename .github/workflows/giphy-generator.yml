@@ -10,7 +10,7 @@ on:
 jobs: 
   giphy-generator:
     runs-on: ubuntu-latest
-# Adding new change for testing
+
     steps:
       - name: GIPHY Generator
         uses: IAmHughes/giphy-generator@v1.0.0
